@@ -1,0 +1,48 @@
+---
+layout: landing
+title: Proofs from the Cook
+---
+
+<h1>{{ page.title }}</h1>
+<p class="author">Tanish Patil</p>
+<p class="date">{{ site.time | date: '%-d %B %Y' }}</p>
+  
+<div class="abstract">
+    <p class="abstractTitle">Abstract</p>
+    <p class="abstractText">
+        I will begin a PhD at the University of Geneva in January 2027 under the supervision of <a href = "https://arnaudcasteigts.net/">Arnaud Casteigts</a> in complexity theory.
+        I obtained my undergraduate degrees from EPF Lausanne and ETH Zürich. I am interested in many other areas of combinatorics, notably temporal graph theory, Ramsey theory and additive combinatorics.
+    </p>
+</div>
+
+<figure class = "portrait">
+    <img src="assets/images/me2.jpg">
+    <figcaption>Figure 1: Me</figcaption>
+</figure>
+
+<h3>Contents</h3>
+
+{% assign page_numbers = "1,1,2,3,5,8,13,21,34,55,89,144,233,377,510" | split: ',' %}
+{% assign index = 0 %}
+
+{% for item in site.data.navigation %}
+    {% assign section = forloop.index %}
+    <div class = "toc-header">
+        <div class = "toc-title">{{ section }} &ensp; {{ item.header }}</div>
+        <div class = "toc-line"></div>
+        <div class = "toc-pn">{{ page_numbers[index] }}</div>
+    </div>
+    {% assign index = index | plus: 1 %}
+    {% for entry in item.entries %}
+        <div class = "toc-entry">
+            <div class = "toc-title">{{ section }}.{{ forloop.index }} &ensp; <a href = "{{ entry.link }}">{{ entry.title }}</a></div>
+            <div class = "toc-line"></div>
+            <div class = "toc-pn">{{ page_numbers[index] }}</div>
+        </div>
+        {% assign index = index | plus: 1 %}
+    {% endfor %}
+{% endfor %}
+
+<p>This website template was created by my dear friend, <a href = "https://valentin-imbach.github.io/">Valentin Imbach</a>.</p>
+
+

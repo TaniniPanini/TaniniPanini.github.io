@@ -1,0 +1,81 @@
+- title: Work Experience
+  entries:
+    - left: Starting 2027
+      right:
+        - Doctoral student, UNIGE (ALGO)
+    - left: August 2026 - October 2026
+      right:
+        - Research intern, UNIGE (ALGO)
+    - left: March 2026 - July 2026
+      right: 
+        - Allrounder, Avenches Youth Hostel
+        - Swiss civil service
+    - left: March 2025 - September 2025
+      right:
+        - Scientific Mediator, SPS, EPF Lausanne
+        - Swiss civil service
+    - left: February 2023 - December 2023
+      right:
+        - Teaching assistant, ETH Zürich
+        - Analysis I (Alessio Figalli), Analysis II (Urs Lang)
+    - left: July 2022 - September 2022
+      right:
+        - Quantitative trading intern, Jane Street London
+    - left: September 2020 - June 2020
+      right:
+        - Teaching assistant, EPF Lausanne
+        - Discrete Optimisation (Adam Marcus), Probability (Juhan Aru), Discrete Mathematics (Maryna Viazovska), Analysis I (François Genoud), Analysis I (Roberto Svaldi)
+
+- title: Education
+  entries:
+    - left: 2022 - 2024
+      right:
+        - MSc Mathematics, ETH Zürich
+        - 5.11/6 GPA
+    - left: 2019 - 2022
+      right:
+        - BSc Mathematics, EPF Lausanne
+        - 5.04/6 GPA
+    - left: 2017 - 2019
+      right:
+        - IB Diploma Programme, Institut International de Lancy
+        - 44/45 
+    - left: 2015 - 2017
+      right: 
+      - Cambridge IGCSE Programme, Institut International de Lancy
+      - 10 A*, 1 B 
+
+- title: Extracurricular Programmes
+  entries:
+    - left: Summer 2018
+      right:  
+      - PROMYS Oxford
+    - left: 2014 - 2019
+      right:
+      - Cours Euler, EPFL
+    - left: 2015 - 2019
+      right: 
+      - Swiss Mathematics Olympiad
+
+- title: Associations
+  entries:
+    - left: Since 2019
+      right:
+        - Swiss Mathematical Olympiad
+        - Board, Communications
+
+- title: Languages
+  entries:
+    - left: English
+      right:
+        - Native proficiency
+    - left: French
+      right:
+        - Professional proficiency
+    - left: German
+      right:
+        - Elementary proficiency
+    - left: Marathi
+      right:
+        - Elementary proficiency
+

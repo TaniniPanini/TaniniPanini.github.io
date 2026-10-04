@@ -1,0 +1,24 @@
+---
+layout: page
+title: Resume
+number: 4.1
+---
+
+You can download my resume as a pdf <a href = /downloads/TanishPatil_CV_Sep25.pdf>here</a> (Last updated September 2025). 
+
+{% for section in site.data.resume %}
+<h3>{{ section.title }}</h3>
+<div class="tab-content">
+	{% for entry in section.entries %}
+	<div class = "resume-entry">
+		<div class = "resume-left">{{ entry.left }}</div>
+		<div class = "resume-right">
+			{% for line in entry.right %}
+				{% if forloop.first %}<strong>{{ line }}</strong>{% else %}{{ line }}{% endif %}<br>
+			{% endfor %}
+		</div>
+	</div>
+	{% endfor %}
+</div>
+{% endfor %}
+

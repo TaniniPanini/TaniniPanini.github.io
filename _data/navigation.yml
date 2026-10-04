@@ -1,0 +1,22 @@
+- header: Academia
+  entries:
+    - title: Education
+      link: /education.html
+    - title: Research
+      link: /research.html
+- header: Outreach
+  entries:
+    - title: Olympiad
+      link: /olympiad.html
+    - title: Teaching
+      link: /teaching.html
+- header: Hobbies
+  entries:
+    - title: About Me
+      link: /miscellaneous.html
+- header: Appendix
+  entries:
+    - title: Resume
+      link: /resume.html 
+    - title: Contact
+      link: /contact.html
