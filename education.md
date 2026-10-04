@@ -8,7 +8,7 @@ I grew up in Geneva, Switzerland, and fell deeply in love with mathematics while
 
 <figure>
     <img src="assets/images/bronze.jpg">
-    <figcaption>Figure 1: Almost Gold</figcaption>
+    <figcaption>Figure 2: Almost Gold</figcaption>
 </figure>
 
 ### Bachelor and Master's studies
