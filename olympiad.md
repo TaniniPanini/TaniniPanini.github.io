@@ -23,7 +23,7 @@ I run the Instagram meme page [swiss.mo](https://www.instagram.com/swiss.mo/).
 
 <figure>
     <img src="assets/images/swissleaders.jpg">
-    <figcaption>Figure 3: Always in good company at MOs</figcaption>
+    <figcaption>Figure 4: Always in good company at MOs</figcaption>
 </figure>
 
 ### Roles at International Olympiads
@@ -40,7 +40,7 @@ I am on the organizing committee for IMO 2030, which will take place in Lausanne
 
 <figure>
     <img src="assets/images/imoindia.jpg">
-    <figcaption>Figure 4: A very merry Tanish Patil crossover</figcaption>
+    <figcaption>Figure 5: A very merry Tanish Patil crossover</figcaption>
 </figure>
 
 ### Awards
