@@ -23,7 +23,7 @@ Coming soon!
 
 <figure>
     <img src="assets/images/reading.jpg">
-    <figcaption>Figure 2: Deep in research</figcaption>
+    <figcaption>Figure 3: Deep in research</figcaption>
 </figure>
 
 ### Talks
