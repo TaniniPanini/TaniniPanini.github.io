@@ -17,7 +17,7 @@ Our group works on algorithm design and analysis. Some of the topics of research
 My studies are focused on Boolean satisfiability (SAT) and the inversion of Boolean circuits, viewed through the lens of parameterized complexity. Both problems are NP-complete in general, but modern SAT solvers routinely handle large industrial instances, which suggests that real-world instances carry hidden structure. I am interested in making this precise: representing formulas and circuits as graphs, identifying the structural parameters that govern their difficulty, and designing algorithms that exploit them. A motivating application is the cryptanalysis of block ciphers such as AES and Speck, where encryption circuits give rise to highly structured, yet hard, satisfiability instances. My mathematical background is in graph theory and combinatorics, and I am particularly drawn to the discrete mathematics underlying these questions.
 
 
-### 1.2.1      Publications
+### Publications
 
 Coming soon!
 
@@ -26,11 +26,11 @@ Coming soon!
     <figcaption>Figure 2: Deep in research</figcaption>
 </figure>
 
-### 1.2.2  Talks
+### Talks
 
 Coming soon!
 
-### 1.2.3  Early research projects
+### Early research projects
 
 *For a list of the handouts I've created as a teaching assistant and olympiad teacher, please check my [teaching page](/teaching.html).*
 
@@ -56,12 +56,12 @@ Semester project, EPF Lausanne [[pdf]](/downloads/Bachelor_Thesis.pdf)\
 
 The state-of-the-art results for the problem discussed in 2. (as of September 2026) can be found [here](https://arxiv.org/abs/2508.08703) and [here](https://arxiv.org/abs/2310.12891). 
 
-### 1.2.4  Other Research Interests
+### Other Research Interests
 
 - Ramsey theory (Take a structure and colour it with finitely many colours. Which monochromatic structures are guaranteed to show up? For instance, on sufficiently large graphs we can find monochromatic cliques; on the integers, we can find sets closed under addition. Can we leverage probabilistic techniques to prove the existence of these structures without knowing where they actually are?) 
 - Percolation (If we take a large, possibly infinite underlying graph - such as a lattice - and small, local structures exist randomly - such as edges - then what do we observe about the resultant graph? When is it connected, and at which probabilities do we observe a phase transition?)
 
-### 1.2.5  On Generative Artificial Intelligence
+### On Generative Artificial Intelligence
 
 I am not completely opposed to the usage of large language models in mathematics, as I believe they can be valuable tools when used responsibly. In my own work, I use models for three main purposes:
 
