@@ -15,7 +15,7 @@ I quite enjoy hiking and running, and am quite mediocre at both. I have also had
         <img src="assets/images/running.jpg" style="width: 50%; object-fit: cover;">
         <img src="assets/images/meow.jpg" style="width: 50%; object-fit: cover;">
     </div>
-    <figcaption>Figure 5: The pinnacle of human athleticism</figcaption>
+    <figcaption>Figure 6: The pinnacle of human athleticism</figcaption>
 </figure>
 
 
@@ -23,12 +23,12 @@ I follow (and occasionally play) a lot of sports, but the three closest to my he
 
 <figure>
     <img src="assets/images/football.jpg">
-    <figcaption>Figure 6: Hopp Schweiz!</figcaption>
+    <figcaption>Figure 7: Hopp Schweiz!</figcaption>
 </figure>
 
 <figure>
     <img src="assets/images/japan.jpg">
-    <figcaption>Figure 7: Lads on tour</figcaption>
+    <figcaption>Figure 8: Lads on tour</figcaption>
 </figure>
 
 ### ...and going indoors
@@ -39,7 +39,7 @@ I am an amateur chess and poker player, with a rating of around 1800 on Lichess.
 
 <figure>
     <img src="assets/images/chess.jpg">
-    <figcaption>Figure 8: In the spirit of Mikhail Tal</figcaption>
+    <figcaption>Figure 9: In the spirit of Mikhail Tal</figcaption>
 </figure>
 
 I love trivia and have the bad habit of going down rabbit holes on Wikipedia for hours at a time. I enjoy board games, particularly involving social deduction. I also like to draw, and have [designed most of the Swiss IMO t-shirts of the past few years](/tshirts.html).
