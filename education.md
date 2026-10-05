@@ -11,7 +11,7 @@ I grew up in Geneva, Switzerland, and fell deeply in love with mathematics while
     <figcaption>Figure 2: Almost Gold</figcaption>
 </figure>
 
-### Bachelor and Master's studies
+### Bachelor's and Master's studies
 
 I obtained a Bachelor's degree in Mathematics from EPF Lausanne and a Master's degree in Mathematics from ETH Zürich. 
 
