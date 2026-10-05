@@ -9,7 +9,7 @@ the computer science department of [UNIGE](https://www.unige.ch/en/),
 under the supervision of [Arnaud Casteigts](https://arnaudcasteigts.net/).
 Our group works on algorithm design and analysis. Some of the topics of research that interest us are as follows.
 
-- **Computational Complexity:** *How long does an algorithm that solves a specific problem take to run? Can problems where we can verify the solution quickly also be solved quickly?*
+- **Computational complexity:** *How long does an algorithm that solves a specific problem take to run? Can problems where we can verify the solution quickly also be solved quickly?*
 - **Temporal graphs:** *Take a graph and add a (discrete) dimension of time: now the edges appear and disappear. How does this affect our standard graph-theoretic notions like connectivity or acyclicity? What does a connected subgraph look like and when can we find a small one?*
 - **Distributed algorithms:** *How can we design efficient algorithms when we have multiple processors available to us? How can we parallelize certain tasks?*
 - **Quantum computing:** *If we were able to create a quantum computer, which problems can it outperform classical computers for?*
