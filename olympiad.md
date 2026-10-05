@@ -19,8 +19,6 @@ Our problems, results and teaching material can be found on our [archive](https:
 
 Some of my favourite activities at the SMO are test-solving the [incredible problems](https://valentin-imbach.github.io/portfolio.html) created by my friend and colleague Valentin, and teaching and creating [handouts](teaching.html) for our students. I also make some [original problems](/portfolio.html) of my own.
 
-I run the Instagram meme page [swiss.mo](https://www.instagram.com/swiss.mo/). 
-
 <figure>
     <img src="assets/images/swissleaders.jpg">
     <figcaption>Figure 4: Always in good company at MOs</figcaption>
