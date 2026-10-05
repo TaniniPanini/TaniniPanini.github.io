@@ -15,7 +15,7 @@ I grew up in Geneva, Switzerland, and fell deeply in love with mathematics while
 
 I obtained a Bachelor's degree in Mathematics from EPF Lausanne and a Master's degree in Mathematics from ETH Zürich. 
 
-I took part in a seminar on percolation at ETH Zürich, and completed two semester projects on vertex-critical graphs without critical edges and on Ramsey theory. I wrote my Bachelor's thesis under the supervision of Florian Karl Richter on van der Waerden's theorem, and my Master's thesis under the supervision of Vitaly Bergelson on topics in ergodic Ramsey theory. You can find all of these documents [here](research.html).
+I took part in a seminar on percolation at ETH Zürich, and completed two semester projects on vertex-critical graphs without critical edges and on Ramsey theory. I wrote my Bachelor's thesis under the supervision of Florian Karl Richter on van der Waerden's theorem, and my Master's thesis under the supervision of Vitaly Bergelson (co-supervised by Manfred Einsiedler) on topics in ergodic Ramsey theory. You can find all of these documents [here](research.html).
 
 
 
